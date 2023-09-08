@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Colin Cummins</h1>
-<h3 align="center">A CS Postbacc from Oregon</h3>
+<h3 align="center">A CS Postbacc from Portland, Oregon</h3>
 
 - 🌱 I’m currently learning **Cloud Computing**
 
